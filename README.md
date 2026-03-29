@@ -184,6 +184,7 @@ Mayıs 2024 G5 fırtınası sırasında Samsun, Türkiye'den **kutup ışığı 
 ## 👥 Takım / Team
 
 **TUA Astro Hackathon 2026** — Türkiye Uzay Ajansı
+**Switch Case** — Youssef Ashraf, İlkay Ekmekçi, Nehir Tiryaki
 
 ---
 
