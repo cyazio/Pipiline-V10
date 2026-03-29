@@ -1,0 +1,9 @@
+numpy
+pandas
+requests
+scipy
+scikit-learn
+tensorflow
+plotly
+dash
+python-dotenv
